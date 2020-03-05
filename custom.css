@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(147, 178, 214);
+}
+
+.title {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.title2 {
+    margin: 6% 10% 4%
+}
+
+.subtitle2 {
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+.firstLink {
+    color: rgb(151, 255, 241);
+}
+
+.btnDesign {
+    margin: 0 0 2% 45%;
+    background-color: rgb(228, 245, 198);
+}
+
+.eDesign {
+    margin: 5% 20% 3% 20%;
+    color: rgb(33, 33, 88);
+}
+
+.imp {
+    margin: 5% 20% 3% 20%;
+    color: rgb(2, 41, 19);
+}
+
+div {
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 3%;
+}
+
+.pText {
+    margin: 0 20% 5% 20%;
+}
+
+.linkS {
+    margin-left: 20%;
+}
